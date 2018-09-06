@@ -1,0 +1,1 @@
+# Grove-Optical_Rotary_Encoder-TCUT1600X01
